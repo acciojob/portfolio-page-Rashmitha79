@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+*{
+	background-color:gold
+}
+#skills{
+	color:red;
+}
+#projects{
+	color:blue;
+}
